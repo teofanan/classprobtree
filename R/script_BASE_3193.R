@@ -1,6 +1,5 @@
 # Copyright Jelena Vasic
 
-# Classification and probability estimation tree functions
 
 #' Calculate the entropy of a vector
 #'
