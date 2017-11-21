@@ -1,5 +1,5 @@
 # Copyright Jelena Vasic
-
+#
 
 #' Calculate the entropy of a vector
 #'
