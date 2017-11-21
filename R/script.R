@@ -1,5 +1,6 @@
 # Copyright Jelena Vasic
 
+
 #' Calculate the entropy of a vector
 #'
 #' \code{entropy} uses Claude Shannon's entropy formula
